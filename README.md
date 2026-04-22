@@ -1,6 +1,6 @@
 # Olá! 👋 Bem-vindo ao meu Perfil
 
-## Sobre Mim
+## Sobre Nós
 
 Sou um **estudante de Desenvolvimento de Sistemas Full Stack**, apaixonado por aprender e criar soluções através da programação.
 
